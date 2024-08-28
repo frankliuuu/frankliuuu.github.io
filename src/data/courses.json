@@ -1,0 +1,38 @@
+[
+  {
+    "id": "COS126",
+    "title": "Computer Science: An Interdisciplinary Approach"
+  },
+  {
+    "id": "COS226",
+    "title": "Algorithms and Data Structures"
+  },
+  {
+    "id": "COS217",
+    "title": "Introduction to Programming Systems"
+  },
+  {
+    "id": "COS240",
+    "title": "Reasoning About Computation"
+  },
+  {
+    "id": "COS302",
+    "title": "Mathematics for Numerical Computing and Machine Learning"
+  },
+  {
+    "id": "COS316",
+    "title": "Principles of Computer System Design"
+  },
+  {
+    "id": "COS324",
+    "title": "Introduction to Machine Learning"
+  },
+  {
+    "id": "COS333",
+    "title": "Advanced Programming Techniques"
+  },
+  {
+    "id": "COS350",
+    "title": "Ethics of Computing"
+  }
+]

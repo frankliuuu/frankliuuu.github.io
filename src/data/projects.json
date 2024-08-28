@@ -1,0 +1,26 @@
+[
+  {
+    "title": "TigerSpot",
+    "imageSrc": "projects/tigerspot.png",
+    "description": "An interactive geographical guessing game web-app for Princeton students and faculty to help them learn about various places/landmarks on campus and interact more with the Princeton community.",
+    "skills": ["HTML/CSS", "JavaScript", "Flask", "PostgreSQL", "Render"],
+    "demo": "https://docs.google.com/document/d/1rItDqyJABeAX7u-D-yxhqnIpjhggBI2x2WWI92NNlqQ/edit?usp=sharing",
+    "source": "https://github.com/frankliuuu/TigerSpot"
+  },
+  {
+    "title": "Word Hunt Solver and Learner",
+    "imageSrc": "projects/project.png",
+    "description": "A web-app that solves Apple's GamePigeon Word Hunt game using DFS and Tries. Looks for all possible words given user input and outputs word paths and word definitions to encourage learning.",
+    "skills": ["React", "Flask", "Python"],
+    "demo": "",
+    "source": "https://github.com/frankliuuu"
+  },
+  {
+    "title": "Midwest Showdown",
+    "imageSrc": "projects/MidwestShowdown.png",
+    "description": "A two-player game on one keyboard developed through Java GUI. Utilizies Java Draw library for graphics and Java Audio library for pre-selected music options.",
+    "skills": ["Java"],
+    "demo": "https://www.youtube.com/watch?v=YwuT4aCdpss",
+    "source": "https://github.com/frankliuuu/Midwest-Showdown"
+  }
+]
