@@ -11,9 +11,14 @@ export const Hero = () => {
         <p className={styles.description}>
           Computer Science at Princeton University
         </p>
-        <a href="mailto:fl9971@princeton.edu" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        <div className={styles.buttons}>
+          <a href="mailto:fl9971@princeton.edu" className={styles.contactBtn}>
+            Contact Me
+          </a>
+          <a href="../../resume.pdf" className={styles.contactBtn}>
+            Resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageUrl("hero/portrait.png")}
