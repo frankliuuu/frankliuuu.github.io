@@ -9,11 +9,11 @@
   },
   {
     "title": "Word Hunt Solver and Learner",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/wordhunt.png",
     "description": "A web-app that solves Apple's GamePigeon Word Hunt game using DFS and Tries. Looks for all possible words given user input and outputs word paths and word definitions to encourage learning.",
-    "skills": ["React", "Flask", "Python"],
-    "demo": "",
-    "source": "https://github.com/frankliuuu"
+    "skills": ["React", "JavaScript", "Flask", "Python"],
+    "demo": "https://github.com/frankliuuu/Word-Hunt-Solver-and-Learner",
+    "source": "https://github.com/frankliuuu/Word-Hunt-Solver-and-Learner"
   },
   {
     "title": "Midwest Showdown",
