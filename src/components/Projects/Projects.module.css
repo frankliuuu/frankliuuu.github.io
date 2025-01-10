@@ -17,10 +17,15 @@
 .projects {
   margin-top: 37px;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  gap: 20px;
   width: 100%;
+}
+
+.projects > div {
+  flex: 1 1 calc(50% - 20px);
+  max-width: calc(50% - 20px);
+  box-sizing: border-box;
 }

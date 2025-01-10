@@ -1,5 +1,13 @@
 [
   {
+    "title": "FitoFit",
+    "imageSrc": "projects/FitoFit.png",
+    "description": "A digitized wardrobe app that makes simplifies clothing management and outfit planning.",
+    "skills": ["SwiftUI", "Figma"],
+    "demo": "https://www.youtube.com/shorts/sBt4UZCnGlw",
+    "source": "https://github.com/frankliuuu/FitoFit"
+  },
+  {
     "title": "TigerSpot",
     "imageSrc": "projects/tigerspot.png",
     "description": "An interactive geographical guessing game web-app for Princeton students and faculty to help them learn about various places/landmarks on campus and interact more with the Princeton community.",
