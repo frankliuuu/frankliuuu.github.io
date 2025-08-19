@@ -14,13 +14,10 @@ export const About = () => {
           className={styles.aboutImage}
         />
         <p className={styles.description}>
-          Hey! I'm Frank Liu, a third-year computer science student at Princeton
-          University with plans on minoring in statistics and machine learning,
-          originally from Atlanta, Georgia. <br /> <br />
-          I’m passionate about using technology to create interactive and
-          engaging experiences, especially when it comes to learning. I am
-          always looking for ways to gamify everyday experiences with my skills
-          of full-stack development. <br /> <br />
+          Hey! I'm Frank Liu, a fourth-year computer science student at
+          Princeton University with plans on minoring in statistics and machine
+          learning, originally from Atlanta, Georgia. <br /> <br />
+          I’m passionate about building engaging experiences. <br /> <br />
           Beyond coding, you'll find me thrifting, rock climbing, and playing
           video games!
         </p>

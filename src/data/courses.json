@@ -32,11 +32,23 @@
     "title": "Advanced Programming Techniques"
   },
   {
-    "id": "COS350",
-    "title": "Ethics of Computing"
+    "id": "COS343",
+    "title": "Algorithms for Computational Biology"
   },
   {
     "id": "COS397",
     "title": "Independent Work - Building a Startup Project"
+  },
+  {
+    "id": "COS445",
+    "title": "Economics and Computing"
+  },
+  {
+    "id": "SML201",
+    "title": "Introduction to Data Science"
+  },
+  {
+    "id": "SML301",
+    "title": "Data Intelligence: Modern Data"
   }
 ]
