@@ -12,7 +12,7 @@ export const Hero = () => {
           Computer Science at Princeton University
         </p>
         <div className={styles.buttons}>
-          <a href="mailto:fl9971@princeton.edu" className={styles.contactBtn}>
+          <a href="mailto:fliu86725@gmail.com" className={styles.contactBtn}>
             Contact Me
           </a>
           <a href="../../resume.pdf" className={styles.contactBtn}>
