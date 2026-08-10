@@ -12,11 +12,11 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
-          <a href="mailto:fl9971@princeton.edu" target="_blank">
+          <a href="mailto:fliu86725@gmail.com" target="_blank">
             <img src={getImageUrl("contact/emailIcon.png")} alt="Email Icon" />
           </a>
-          <a href="mailto:fl9971@princeton.edu" target="_blank">
-            fl9971@princeton.edu
+          <a href="mailto:fliu86725@gmail.com" target="_blank">
+            fliu86725@gmail.com
           </a>
         </li>
         <li className={styles.link}>
